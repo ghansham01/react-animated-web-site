@@ -1,5 +1,3 @@
-import Button from "./Button"
-import Animatedtital from './Animatedtital'
 
 const Footer = () => {
   return (
