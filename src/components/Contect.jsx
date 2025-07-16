@@ -1,5 +1,5 @@
 import Animatedtitle from "./Animatedtital";
-import Button from './Button_temp'
+import Button from "./Button_temp";
 
 const ImageClipBox = ({ src, clipClass }) => (
   <div className={clipClass}>
