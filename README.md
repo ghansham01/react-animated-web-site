@@ -64,7 +64,3 @@ npm run preview
 - clsx
 - react-icons
 - react-use
-
-## License
-
-MIT
